@@ -1,6 +1,5 @@
 package geometry3d;
 
-import geometry2d.Circle;
 import geometry2d.Rectangle;
 import org.junit.jupiter.api.Test;
 

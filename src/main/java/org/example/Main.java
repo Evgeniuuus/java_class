@@ -100,7 +100,7 @@ class Balance {
     int right_bowl;
     int left_bowl;
 
-    Balance() {
+    public Balance() {
         right_bowl = 0;
         left_bowl = 0;
     }
@@ -144,7 +144,7 @@ class OddEvenSeparator {
     private int oddCount = 0;
     private int evenCount = 0;
 
-    OddEvenSeparator() {
+    public OddEvenSeparator() {
         numbers = new int[10];
         odds = new int[10];
         evens = new int[10];
